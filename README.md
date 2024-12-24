@@ -1,2 +1,2 @@
 # TalkSpot
-Welcome to TalkSpot! A real-time video chat platform.
+TalkSpot is a web application used to connect to random strangers across the globe and chat with them.
